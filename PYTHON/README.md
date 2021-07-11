@@ -1,3 +1,12 @@
+# Python Snippets
+<details open="open">
+<summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#1-setup-python-project-folders">Setup python project folders</a></li>
+    <li><a href="#2-scheduling-a-script">Scheduling a script</a></li>
+  </ol>
+  
+</details>
 
 
 
