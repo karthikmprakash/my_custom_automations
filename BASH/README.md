@@ -1,6 +1,13 @@
 # BASH Automations
+<details open="open">
+<summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#setup-python-project-folders">Setup python project folders </a></li>
+  </ol>
+</details>
 
-## To Create a Custom Command on Linux
+
+## Setup python project folders
 This automation setups a python environment to work with by creating folders and python files including README for github 
 
 ### How to?
