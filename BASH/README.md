@@ -7,7 +7,7 @@
 </details>
 
 
-## Setup python project folders
+## 1. Setup python project folders
 This automation setups a python environment to work with by creating folders and python files including README for github 
 
 ### How to?
