@@ -2,8 +2,10 @@
 <details open="open">
 <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#setup-python-project-folders">Setup python project folders </a></li>
+    <li><a href="#1-setup-python-project-folders">Setup python project folders</a></li>
+    <li><a href="#2-scheduling-a-script">Scheduling a script</a></li>
   </ol>
+  
 </details>
 
 
@@ -36,3 +38,5 @@ function cdir(){
 /usr/bin/bash python_proj_directory.sh;
 }
 ```
+
+## 2. Scheduling a script
